@@ -1,0 +1,27 @@
+#red1{
+    color: rgb(196, 13, 13);
+}
+#red2{
+    color: rgb(196, 13, 13);
+}
+.red3{
+    color: rgb(196, 13, 13);
+
+}
+/* .lk{
+    background-color: yellow;
+    color: rgb(196, 13, 13);
+    font-style: italic;
+    a:link, a:visited {
+
+        display: inline-block;
+text-decoration: none;
+} */
+    a:link, a:visited {
+background-color: yellow;
+color: rgb(196, 13, 13) ;
+text-decoration: none;
+display: inline-block;
+font-style: italic;
+font-size: large;
+    }
